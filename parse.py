@@ -1,4 +1,3 @@
-import threading
 import config as cfg
 import re
 from datetime import datetime
